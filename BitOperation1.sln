@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitOperation1", "BitOperation1\BitOperation1.csproj", "{DF494CC4-9BEC-4BBF-8A49-1D6B82729BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF494CC4-9BEC-4BBF-8A49-1D6B82729BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF494CC4-9BEC-4BBF-8A49-1D6B82729BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF494CC4-9BEC-4BBF-8A49-1D6B82729BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF494CC4-9BEC-4BBF-8A49-1D6B82729BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF48B318-D427-4456-AD78-9984139ABDE4}
+	EndGlobalSection
+EndGlobal
